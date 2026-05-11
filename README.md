@@ -9,7 +9,7 @@ A fullstack web application for managing surgical appointments. It provides role
 | Service | Link | Status |
 | :--- | :--- | :--- |
 | Frontend (Vercel) | [surgical-plan-app.vercel.app](https://surgical-plan-app.vercel.app/) | ⚠️ Deployed (older version) |
-| Backend API (Render) | [surgical-plan-app-2.onrender.com](https://surgical-plan-app-2.onrender.com) | ❌ Not reachable |
+| Backend API (Render) | [surgical-plan-app-2.onrender.com](https://surgical-plan-app-2.onrender.com) | now shows app APR running :) |
 
 ## 🧠 Project Overview
 
@@ -186,4 +186,3 @@ html link - file:///C:/Users/MadihahBINTIHASHIM/Downloads/Surgical%20Plan%20Syst
 
 ---
 
-**Note to Evaluator:** The application is a complete, fully functional fullstack system. All core and advanced requirements are met. Deployment issues are due to platform configuration, not code logic, and do not affect the local functionality demonstrated in the submission video.
