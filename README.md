@@ -9,7 +9,7 @@ A fullstack web application for managing surgical appointments. It provides role
 | Service | Link | Status |
 | :--- | :--- | :--- |
 | Frontend (Vercel) | [surgical-plan-app.vercel.app](https://surgical-plan-app.vercel.app/) | ⚠️ Deployed (older version) |
-| Backend API (Render) | [surgical-plan-app-2.onrender.com](https://surgical-plan-app-2.onrender.com) | now shows app APR running :) |
+| Backend API (Render) | [surgical-plan-app-2.onrender.com](https://surgical-plan-app-2.onrender.com) | now shows app API running :) |
 
 ## 🧠 Project Overview
 
